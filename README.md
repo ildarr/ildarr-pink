@@ -1,2 +1,2 @@
-# ildarr.github.io
-Мой хостинг на github
+# ildarr-pink
+Учебный проект Пинк
